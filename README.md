@@ -10,7 +10,7 @@ If I'm not mistaken, this tool should work with any Linux distribution, as it us
 **It is important to note that no changes are made to the originating log file.** To run, download/copy the script and change the top two variables.
 
 1. *logfile* is your originating server.log file (unless you have renamed it).
-2. *logfolder* is the folder you wish to output the converted files to.
+2. *logfolder* is the folder you wish to output the converted files to. A trailing / is not necessary.
 
 ## Ignored Lines ##
 
