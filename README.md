@@ -1,7 +1,7 @@
 mclogconverter
 ==============
 
-This tool was created to convert the old style of Minecraft logging (before 1.6.4) and allow them to work with mclogalyzer (located here https://github.com/m0r13/mclogalyzer ), but this tool likely will be beneficial for other uses as well.
+This tool was created to convert the old style of Minecraft logging (before 1.7) and allow them to work with mclogalyzer (located here https://github.com/m0r13/mclogalyzer ), but this tool likely will be beneficial for other uses as well.
 
 If I'm not mistaken, this tool should work with any Linux distribution, as it uses commom BASH commands.
 
