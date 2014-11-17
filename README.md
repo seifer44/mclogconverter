@@ -22,3 +22,4 @@ Lines that do not start with a date at the start of the line are ignored. This i
 * WARNING is not changed to WARN.
 * This script currently runs pretty slowly. My 4.6MB server.log file took about 15 minutes. I would recommend running this script in a screen if you may get disconnected.
 * While I have ran my server with Bukkit briefly, I encountered only one issue with conversion of my large server.log. When issuing a check for users online through the server CLI, the online users were output onto a second line. These lines will be ignored. Your results with Bukkit logs may vary.
+* This script does not split logs into multiple files per day. All files are YYYY-MM-DD-1.log.gz
